@@ -1,0 +1,87 @@
+a:hover {
+  -webkit-text-decoration: underline 2px gold;
+          text-decoration: underline 2px gold;
+  -webkit-transition: 0.1s ease;
+  transition: 0.1s ease;
+}
+
+.home {
+  padding: 180px 0 70px 0;
+}
+
+.kap-remont {
+  padding: 70px 0px 80px 0px;
+}
+
+.about {
+  padding: 100px 0px 100px 0px;
+}
+
+.certificate {
+  padding: 70px 0px 80px 0px;
+}
+
+/*h2 {
+    position: relative;
+    line-height: 1.2em;
+}
+h2:before {
+    position: absolute;
+    left: 620px;
+    top: 1.2em;
+    height: 0;
+    width: 350px;
+    content: '';
+    border-top: 2px solid black;
+}
+}
+
+.img-paragraph {
+    position: relative;
+    bottom: 25%;
+    left: 10%;
+    font-size: 80px;
+    margin-left: 80px;
+    max-width: 300px;
+    line-height: 60px;
+} */
+.certificate-row2 {
+  padding-top: 50px;
+}
+
+.our-services {
+  padding: 60px 0px 70px 0px;
+}
+
+.our-services .card-body, .carousel-item1 {
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+
+.our-services .card-body, .carousel-item1:hover {
+  -webkit-box-shadow: 10px 10px 11px rgba(33, 33, 33, 0.2);
+          box-shadow: 10px 10px 11px rgba(33, 33, 33, 0.2);
+}
+
+.our-services .card, .carousel-item1 {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6rbdtWJj9Sy0slaWxZcbeBnwiDsk_TqRbpA&usqp=CAU);
+}
+
+.btn-warning1 {
+  margin-top: 70px;
+}
+
+.gallery-work {
+  padding: 60px 0px 100px 0px;
+}
+
+.gallery-work img {
+  -webkit-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+
+.gallery-work img:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+/*# sourceMappingURL=style.css.map */
